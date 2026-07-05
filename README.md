@@ -1,5 +1,5 @@
 ## Hi there 👋# 💫 About Me:
-Building at the intersection of fintech & African payments 🇰🇪 | Creator of PayGuard Kenya — M-Pesa reversal protection for merchants | CS student · React · Python · Supabase
+Building at the intersection of fintech & African payments 🇰🇪 | Creator of Chamalink a Saas platform to digitalize chamas | CS student · React · Python · Supabase
 
 
 ## 🌐 Socials:
