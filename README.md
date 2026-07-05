@@ -77,8 +77,8 @@ Building secure financial tools for Kenyan users.
 
 ## 📫 Connect With Me
 
-- LinkedIn
-- Email
+- LinkedIn https://www.linkedin.com/in/harrison-mwangi-42061a2a4/
+- Email harrisonmwangi745@gmailcom
 - Portfolio (Coming Soon)
 
 ---
